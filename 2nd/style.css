@@ -1,0 +1,19 @@
+.profile{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.picture{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    margin-top: 30px;
+    background-image: url('https://i.pinimg.com/474x/f1/06/af/f106afe00e1223b2f163e4ec817d992a.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+a{
+    text-decoration-line : none;
+}
