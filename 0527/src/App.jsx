@@ -1,5 +1,5 @@
-import GetPage from './component/Get'
-import Post from './component/Post'
+import GetPage from './pages/Get'
+import Post from './pages/Post'
 export default function App() {
 
   return (
